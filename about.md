@@ -1,9 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Publications
+permalink: /publications/
 ---
 
-(images/headshot.jpeg)
-
-I'm an environmental scientist at The University of Tennessee looking for PhD positions. My current work is in the [Steen Lab](https://adsteen.github.io/) as a lab technician/post-baccalaureate scholar. In the past, I have been part of the [Lloyd Lab](https://lloydlab.utk.edu/) and [the Silva Nova project](https://www.above-belowgroundinteractions.com/silva-nova). 
+1. Gage R. Coon, Paul D. Duesing, Raegan Paul, Jennifer A. Baily, Karen G. Lloyd. Biological methane production and accumulation under sulfate-rich conditions at Cape Lookout Bight, NC. Frontiers in Microbiology. 2023. (https://www.frontiersin.org/articles/10.3389/fmicb.2023.1268361/full)(https://www.frontiersin.org/articles/10.3389/fmicb.2023.1268361/full) DOI: 10.3389/fmicb.2023.1268361.
