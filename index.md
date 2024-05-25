@@ -1,4 +1,5 @@
 ---
+title: Gage R. Coon's website
 layout: home
 ---
 
