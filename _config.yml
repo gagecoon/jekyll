@@ -17,14 +17,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+
+google_analytics: G-R6HN5F930K
+
 title: Gage R. Coon's website
 email: gcoon@mit.edu
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://gagecoon.work" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: thecagedgoon
 github_username: gagecoon
-
-google_analytics: G-R6HN5F930K
 
 # Build settings
 theme: minima
