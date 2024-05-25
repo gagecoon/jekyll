@@ -24,6 +24,8 @@ url: "https://gagecoon.work" # the base hostname & protocol for your site, e.g. 
 twitter_username: thecagedgoon
 github_username: gagecoon
 
+google_analytics: G-R6HN5F930K
+
 # Build settings
 theme: minima
 plugins:
